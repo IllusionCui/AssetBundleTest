@@ -1,0 +1,17 @@
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/illusion/illusion/unity/AssetBundleTest/obj/Debug/Assembly-CSharp.dll
+/Users/illusion/illusion/unity/AssetBundleTest/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/UnityEngine.dll
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/UnityEditor.dll
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/Mono.Cecil.dll
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/Unity.DataContract.dll
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/illusion/illusion/unity/AssetBundleTest/Temp/bin/Debug/Mono.Cecil.Mdb.dll
