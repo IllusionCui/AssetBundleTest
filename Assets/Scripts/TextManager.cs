@@ -7,7 +7,8 @@ public class TextManager : MonoBehaviour {
 	static int _index = 0;
 	static List<string> _info = new List<string> () {
 		"perfab",
-		"sence"
+		"sence",
+		"sencescript"
 	};
 
 	string CurrKey {

@@ -2,8 +2,11 @@ ManifestFileVersion: 0
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: perfab
+      Name: sence
       Dependencies: {}
     Info_1:
-      Name: sence
+      Name: perfab
+      Dependencies: {}
+    Info_2:
+      Name: sencescript
       Dependencies: {}
