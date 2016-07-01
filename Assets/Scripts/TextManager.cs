@@ -8,7 +8,8 @@ public class TextManager : MonoBehaviour {
 	static List<string> _info = new List<string> () {
 		"perfab",
 		"sence",
-		"sencescript"
+		"sencedeletescript",
+		"senceupdatescript"
 	};
 
 	string CurrKey {

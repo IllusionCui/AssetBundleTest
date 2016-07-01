@@ -8,5 +8,8 @@ AssetBundleManifest:
       Name: perfab
       Dependencies: {}
     Info_2:
-      Name: sencescript
+      Name: senceupdatescript
+      Dependencies: {}
+    Info_3:
+      Name: sencedeletescript
       Dependencies: {}

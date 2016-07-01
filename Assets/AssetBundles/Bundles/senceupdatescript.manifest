@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 306584364
+CRC: 1472581870
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e7d8f7665c40e56561ff63594034b532
+    Hash: 0853a4ada92340a042e16d1fba489b7e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 76af7d088b42942b5e27c69710cffa29
+    Hash: 55d312fe91f27fa7402bf69e91d26bc2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -43,6 +43,8 @@ ClassTypes:
   Script: {fileID: 1077351063, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
   Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 364c325af80c04f408d107870bf2cc85, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 124
@@ -60,5 +62,5 @@ ClassTypes:
 - Class: 258
   Script: {instanceID: 0}
 Assets:
-- Assets/Sence/sence.unity
+- Assets/Sence/senceupdatescript.unity
 Dependencies: []
